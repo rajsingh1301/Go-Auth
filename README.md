@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner-pixel.png" alt="Go Auth API Pixel Art Banner" width="400" style="border-radius: 10px;" />
+  <img src="assets/banner-pixel.png" alt="Go Auth API Pixel Art Banner" width="100%" style="border-radius: 10px;" />
 
   <h1>🛡️ Go Auth API</h1>
   <p><b>A modern, robust, and secure authentication REST API built with Go, Gin, GORM, and PostgreSQL.</b></p>
