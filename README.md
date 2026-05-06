@@ -1,8 +1,10 @@
 <div align="center">
-
+  
+ <h1>🛡️ Go Auth API</h1>
+ 
   <img src="assets/gopher.png" alt="Go Gopher" width="200" />
 
-  <h1>🛡️ Go Auth API</h1>
+ 
   <p><b>A modern, robust, and secure authentication REST API built with Go, Gin, GORM, and PostgreSQL.</b></p>
   
   [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go)](https://go.dev/)
